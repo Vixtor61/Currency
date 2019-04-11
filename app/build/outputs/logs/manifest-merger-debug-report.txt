@@ -1,0 +1,310 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha1.aar/24b8871398420bebdbe4143de83d37d2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomappbar-28.0.0-alpha1.aar/5886c8b340625755177dc0ee5b593a6c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-theme-28.0.0-alpha1.aar/d9bb27de876e52572bfa025eedf13545/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-transformation-28.0.0-alpha1.aar/38af8c5a96805daedae854d1162ca105/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-widget-28.0.0-alpha1.aar/dee59d70d7c2792ec59dd7003cc3ccbb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomsheet-28.0.0-alpha1.aar/2957711c9ba2f49941caacafd0850975/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-dialog-28.0.0-alpha1.aar/ca0392baf645639800e36197e4145288/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-button:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-button-28.0.0-alpha1.aar/334a1b7c774ff2b9ec323b093bf017fd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-card:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-card-28.0.0-alpha1.aar/a4b6187665b9dd39fcfc3c909e0222b0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-chip-28.0.0-alpha1.aar/478d1b24facd56f015d41a2962cfb519/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-internal-28.0.0-alpha1.aar/bddc429d381c9f6df025d3f6f1f0cde2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomnavigation-28.0.0-alpha1.aar/c66d0c0557dd11ddbb8ff352c134fce2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-floatingactionbutton-28.0.0-alpha1.aar/ebb2341c6184423f17bc810eea2fef29/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-navigation-28.0.0-alpha1.aar/5bfea909937a36d6ea6729be659b3a5f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-resources-28.0.0-alpha1.aar/abc7d7f5535b8cee6dbabb0abb96ba84/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-tabs-28.0.0-alpha1.aar/2b4c0c83a50c5c01077354dad1d1ac37/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-textfield-28.0.0-alpha1.aar/c825d314834ad85770abe38bb91050bf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-typography-28.0.0-alpha1.aar/a234dccf98a52657476a9a3452e49ff2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-shape-28.0.0-alpha1.aar/18f87ced53ce9cab1f552508ee5a7e38/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/2e362472fda0399fda73185aef281ad7/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/uca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/de5402dc8a740674f4e224c7f61b7f01/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/2417eb448295cdcd82fd4eab47efaac1/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/8edaf4d8ac3a7af0f864624a0e749f5d/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha1.aar/438e2ed20c9245a736141c5a86b73180/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-animation-28.0.0-alpha1.aar/1a8027ceef963835c96c6419895f97ed/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-coordinatorlayout-28.0.0-alpha1.aar/7458a1c42d392f29fa714116066a89dc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-expandable-28.0.0-alpha1.aar/d077f29f941b30c0abe01b1c56fd61b8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-stateful-28.0.0-alpha1.aar/4609bf31af18a96ef0b702c24a383c18/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/fdb3fb3679d902f753cfd8b4d4be0e1f/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-ripple-28.0.0-alpha1.aar/9cda37d516cd5d8e562e08efc124d812/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/800b6dd3844a5ee640ea7c9e6aa97457/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/d1355318331336a873016ec9ae9e1e1e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha1.aar/ab4c96856e9c1ddc77500108c5f46ee4/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/1cbc61150529f3bb63006e84a5fcd7b2/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/c445c96e68ddab64abd9736e193f2c59/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/8af1021888aaf5ac62f3dcc4304da412/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/6fc4dcccb2d9aa01f71f03d7ca5f1c85/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/f3a993edc67f1bc7d2d86be1d970f83d/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/c79081f100601d344ba9e9b0419ff694/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/8fd58b5de59839a3f963d51f33d1abdc/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/609c9f4e414e716b7a1b330f3bfada6b/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/d18df62da4cf3fad9daf568ff3ccc113/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-canvas-28.0.0-alpha1.aar/007969d98e8743e07535a6a11b36888a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-cardview-28.0.0-alpha1.aar/72fa8b6fb4ec27feda46110db25c914c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-28.0.0-alpha1.aar/697cd24f94a76e2ed920583360b035a4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-drawable-28.0.0-alpha1.aar/8246d09170cf5611ff7e70c679644ec7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/3dd83c7395824a052d986074911df9b2/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/422880ed40e5f5e67b49f5870248f7fc/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/07316301bde08b3d2deee5bd04030701/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/8d4dc6ad80b84aadaae09362bc8786bd/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/5f0c1f050cb997fe03cfca2c6470cb5d/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha1.aar/5cb988e4c85f9defc3a2433b45f083fb/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-color:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-color-28.0.0-alpha1.aar/557126354cac6d12d59375660909a6bc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-math:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-math-28.0.0-alpha1.aar/2a2af7c641920f5918dbf74c8e9b1d29/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-snackbar-28.0.0-alpha1.aar/c17544e5b1f9ab13ffb43857c73d23ef/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/uca/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9f996c8e300410650ea46839d76ad01c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/uca/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7bc910d1498cbd1622d0db8700aa60e1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/uca/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b5d844d1fa5d0e9c1b98a6b31bf4dd1f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/uca/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2655428225800b67a7ab5d7779131700/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:3:11-42
+		INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+		INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha1.aar/24b8871398420bebdbe4143de83d37d2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha1.aar/24b8871398420bebdbe4143de83d37d2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomappbar-28.0.0-alpha1.aar/5886c8b340625755177dc0ee5b593a6c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomappbar-28.0.0-alpha1.aar/5886c8b340625755177dc0ee5b593a6c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-theme-28.0.0-alpha1.aar/d9bb27de876e52572bfa025eedf13545/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-theme-28.0.0-alpha1.aar/d9bb27de876e52572bfa025eedf13545/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-transformation-28.0.0-alpha1.aar/38af8c5a96805daedae854d1162ca105/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-transformation-28.0.0-alpha1.aar/38af8c5a96805daedae854d1162ca105/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-widget-28.0.0-alpha1.aar/dee59d70d7c2792ec59dd7003cc3ccbb/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-widget-28.0.0-alpha1.aar/dee59d70d7c2792ec59dd7003cc3ccbb/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomsheet-28.0.0-alpha1.aar/2957711c9ba2f49941caacafd0850975/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomsheet-28.0.0-alpha1.aar/2957711c9ba2f49941caacafd0850975/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-dialog-28.0.0-alpha1.aar/ca0392baf645639800e36197e4145288/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-dialog-28.0.0-alpha1.aar/ca0392baf645639800e36197e4145288/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-button:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-button-28.0.0-alpha1.aar/334a1b7c774ff2b9ec323b093bf017fd/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-button:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-button-28.0.0-alpha1.aar/334a1b7c774ff2b9ec323b093bf017fd/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-card:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-card-28.0.0-alpha1.aar/a4b6187665b9dd39fcfc3c909e0222b0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-card:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-card-28.0.0-alpha1.aar/a4b6187665b9dd39fcfc3c909e0222b0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-chip-28.0.0-alpha1.aar/478d1b24facd56f015d41a2962cfb519/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-chip-28.0.0-alpha1.aar/478d1b24facd56f015d41a2962cfb519/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-internal-28.0.0-alpha1.aar/bddc429d381c9f6df025d3f6f1f0cde2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-internal-28.0.0-alpha1.aar/bddc429d381c9f6df025d3f6f1f0cde2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomnavigation-28.0.0-alpha1.aar/c66d0c0557dd11ddbb8ff352c134fce2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomnavigation-28.0.0-alpha1.aar/c66d0c0557dd11ddbb8ff352c134fce2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-floatingactionbutton-28.0.0-alpha1.aar/ebb2341c6184423f17bc810eea2fef29/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-floatingactionbutton-28.0.0-alpha1.aar/ebb2341c6184423f17bc810eea2fef29/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-navigation-28.0.0-alpha1.aar/5bfea909937a36d6ea6729be659b3a5f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-navigation-28.0.0-alpha1.aar/5bfea909937a36d6ea6729be659b3a5f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-resources-28.0.0-alpha1.aar/abc7d7f5535b8cee6dbabb0abb96ba84/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-resources-28.0.0-alpha1.aar/abc7d7f5535b8cee6dbabb0abb96ba84/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-tabs-28.0.0-alpha1.aar/2b4c0c83a50c5c01077354dad1d1ac37/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-tabs-28.0.0-alpha1.aar/2b4c0c83a50c5c01077354dad1d1ac37/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-textfield-28.0.0-alpha1.aar/c825d314834ad85770abe38bb91050bf/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-textfield-28.0.0-alpha1.aar/c825d314834ad85770abe38bb91050bf/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-typography-28.0.0-alpha1.aar/a234dccf98a52657476a9a3452e49ff2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-typography-28.0.0-alpha1.aar/a234dccf98a52657476a9a3452e49ff2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-shape-28.0.0-alpha1.aar/18f87ced53ce9cab1f552508ee5a7e38/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-shape-28.0.0-alpha1.aar/18f87ced53ce9cab1f552508ee5a7e38/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/uca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/de5402dc8a740674f4e224c7f61b7f01/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/uca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/de5402dc8a740674f4e224c7f61b7f01/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-animation-28.0.0-alpha1.aar/1a8027ceef963835c96c6419895f97ed/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-animation-28.0.0-alpha1.aar/1a8027ceef963835c96c6419895f97ed/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-coordinatorlayout-28.0.0-alpha1.aar/7458a1c42d392f29fa714116066a89dc/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-coordinatorlayout-28.0.0-alpha1.aar/7458a1c42d392f29fa714116066a89dc/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-expandable-28.0.0-alpha1.aar/d077f29f941b30c0abe01b1c56fd61b8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-expandable-28.0.0-alpha1.aar/d077f29f941b30c0abe01b1c56fd61b8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-stateful-28.0.0-alpha1.aar/4609bf31af18a96ef0b702c24a383c18/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-stateful-28.0.0-alpha1.aar/4609bf31af18a96ef0b702c24a383c18/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-ripple-28.0.0-alpha1.aar/9cda37d516cd5d8e562e08efc124d812/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-ripple-28.0.0-alpha1.aar/9cda37d516cd5d8e562e08efc124d812/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-canvas-28.0.0-alpha1.aar/007969d98e8743e07535a6a11b36888a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-canvas-28.0.0-alpha1.aar/007969d98e8743e07535a6a11b36888a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-cardview-28.0.0-alpha1.aar/72fa8b6fb4ec27feda46110db25c914c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-cardview-28.0.0-alpha1.aar/72fa8b6fb4ec27feda46110db25c914c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-28.0.0-alpha1.aar/697cd24f94a76e2ed920583360b035a4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-28.0.0-alpha1.aar/697cd24f94a76e2ed920583360b035a4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-drawable-28.0.0-alpha1.aar/8246d09170cf5611ff7e70c679644ec7/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-drawable-28.0.0-alpha1.aar/8246d09170cf5611ff7e70c679644ec7/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-color:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-color-28.0.0-alpha1.aar/557126354cac6d12d59375660909a6bc/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-color:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-color-28.0.0-alpha1.aar/557126354cac6d12d59375660909a6bc/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-math:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-math-28.0.0-alpha1.aar/2a2af7c641920f5918dbf74c8e9b1d29/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-math:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-math-28.0.0-alpha1.aar/2a2af7c641920f5918dbf74c8e9b1d29/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-snackbar-28.0.0-alpha1.aar/c17544e5b1f9ab13ffb43857c73d23ef/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-snackbar-28.0.0-alpha1.aar/c17544e5b1f9ab13ffb43857c73d23ef/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.naldana.ejemplo10.MainActivity
+ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:14:17-49
+	android:theme
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:15:17-60
+	android:name
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:13:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha1.aar/24b8871398420bebdbe4143de83d37d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha1.aar/24b8871398420bebdbe4143de83d37d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomappbar-28.0.0-alpha1.aar/5886c8b340625755177dc0ee5b593a6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomappbar-28.0.0-alpha1.aar/5886c8b340625755177dc0ee5b593a6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-theme-28.0.0-alpha1.aar/d9bb27de876e52572bfa025eedf13545/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-theme-28.0.0-alpha1.aar/d9bb27de876e52572bfa025eedf13545/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-transformation-28.0.0-alpha1.aar/38af8c5a96805daedae854d1162ca105/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-transformation-28.0.0-alpha1.aar/38af8c5a96805daedae854d1162ca105/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-widget-28.0.0-alpha1.aar/dee59d70d7c2792ec59dd7003cc3ccbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-widget-28.0.0-alpha1.aar/dee59d70d7c2792ec59dd7003cc3ccbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomsheet-28.0.0-alpha1.aar/2957711c9ba2f49941caacafd0850975/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomsheet-28.0.0-alpha1.aar/2957711c9ba2f49941caacafd0850975/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-dialog-28.0.0-alpha1.aar/ca0392baf645639800e36197e4145288/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-dialog-28.0.0-alpha1.aar/ca0392baf645639800e36197e4145288/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-button:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-button-28.0.0-alpha1.aar/334a1b7c774ff2b9ec323b093bf017fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-button:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-button-28.0.0-alpha1.aar/334a1b7c774ff2b9ec323b093bf017fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-card:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-card-28.0.0-alpha1.aar/a4b6187665b9dd39fcfc3c909e0222b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-card:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-card-28.0.0-alpha1.aar/a4b6187665b9dd39fcfc3c909e0222b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-chip-28.0.0-alpha1.aar/478d1b24facd56f015d41a2962cfb519/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-chip-28.0.0-alpha1.aar/478d1b24facd56f015d41a2962cfb519/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-internal-28.0.0-alpha1.aar/bddc429d381c9f6df025d3f6f1f0cde2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-internal-28.0.0-alpha1.aar/bddc429d381c9f6df025d3f6f1f0cde2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomnavigation-28.0.0-alpha1.aar/c66d0c0557dd11ddbb8ff352c134fce2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-bottomnavigation-28.0.0-alpha1.aar/c66d0c0557dd11ddbb8ff352c134fce2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-floatingactionbutton-28.0.0-alpha1.aar/ebb2341c6184423f17bc810eea2fef29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-floatingactionbutton-28.0.0-alpha1.aar/ebb2341c6184423f17bc810eea2fef29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-navigation-28.0.0-alpha1.aar/5bfea909937a36d6ea6729be659b3a5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-navigation-28.0.0-alpha1.aar/5bfea909937a36d6ea6729be659b3a5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-resources-28.0.0-alpha1.aar/abc7d7f5535b8cee6dbabb0abb96ba84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-resources-28.0.0-alpha1.aar/abc7d7f5535b8cee6dbabb0abb96ba84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-tabs-28.0.0-alpha1.aar/2b4c0c83a50c5c01077354dad1d1ac37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-tabs-28.0.0-alpha1.aar/2b4c0c83a50c5c01077354dad1d1ac37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-textfield-28.0.0-alpha1.aar/c825d314834ad85770abe38bb91050bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-textfield-28.0.0-alpha1.aar/c825d314834ad85770abe38bb91050bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-typography-28.0.0-alpha1.aar/a234dccf98a52657476a9a3452e49ff2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-typography-28.0.0-alpha1.aar/a234dccf98a52657476a9a3452e49ff2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-shape-28.0.0-alpha1.aar/18f87ced53ce9cab1f552508ee5a7e38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-shape-28.0.0-alpha1.aar/18f87ced53ce9cab1f552508ee5a7e38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/2e362472fda0399fda73185aef281ad7/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/2e362472fda0399fda73185aef281ad7/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/uca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/de5402dc8a740674f4e224c7f61b7f01/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/uca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/de5402dc8a740674f4e224c7f61b7f01/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/2417eb448295cdcd82fd4eab47efaac1/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/2417eb448295cdcd82fd4eab47efaac1/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/8edaf4d8ac3a7af0f864624a0e749f5d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/8edaf4d8ac3a7af0f864624a0e749f5d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha1.aar/438e2ed20c9245a736141c5a86b73180/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha1.aar/438e2ed20c9245a736141c5a86b73180/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-animation-28.0.0-alpha1.aar/1a8027ceef963835c96c6419895f97ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-animation-28.0.0-alpha1.aar/1a8027ceef963835c96c6419895f97ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-coordinatorlayout-28.0.0-alpha1.aar/7458a1c42d392f29fa714116066a89dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-coordinatorlayout-28.0.0-alpha1.aar/7458a1c42d392f29fa714116066a89dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-expandable-28.0.0-alpha1.aar/d077f29f941b30c0abe01b1c56fd61b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-expandable-28.0.0-alpha1.aar/d077f29f941b30c0abe01b1c56fd61b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-stateful-28.0.0-alpha1.aar/4609bf31af18a96ef0b702c24a383c18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-stateful-28.0.0-alpha1.aar/4609bf31af18a96ef0b702c24a383c18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/fdb3fb3679d902f753cfd8b4d4be0e1f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/fdb3fb3679d902f753cfd8b4d4be0e1f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-ripple-28.0.0-alpha1.aar/9cda37d516cd5d8e562e08efc124d812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-ripple-28.0.0-alpha1.aar/9cda37d516cd5d8e562e08efc124d812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/800b6dd3844a5ee640ea7c9e6aa97457/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/800b6dd3844a5ee640ea7c9e6aa97457/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/d1355318331336a873016ec9ae9e1e1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/d1355318331336a873016ec9ae9e1e1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha1.aar/ab4c96856e9c1ddc77500108c5f46ee4/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha1.aar/ab4c96856e9c1ddc77500108c5f46ee4/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/1cbc61150529f3bb63006e84a5fcd7b2/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/1cbc61150529f3bb63006e84a5fcd7b2/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/c445c96e68ddab64abd9736e193f2c59/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/c445c96e68ddab64abd9736e193f2c59/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/8af1021888aaf5ac62f3dcc4304da412/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/8af1021888aaf5ac62f3dcc4304da412/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/6fc4dcccb2d9aa01f71f03d7ca5f1c85/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/6fc4dcccb2d9aa01f71f03d7ca5f1c85/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/f3a993edc67f1bc7d2d86be1d970f83d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/f3a993edc67f1bc7d2d86be1d970f83d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/c79081f100601d344ba9e9b0419ff694/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/c79081f100601d344ba9e9b0419ff694/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/8fd58b5de59839a3f963d51f33d1abdc/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/8fd58b5de59839a3f963d51f33d1abdc/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/609c9f4e414e716b7a1b330f3bfada6b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/609c9f4e414e716b7a1b330f3bfada6b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/d18df62da4cf3fad9daf568ff3ccc113/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/d18df62da4cf3fad9daf568ff3ccc113/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-canvas-28.0.0-alpha1.aar/007969d98e8743e07535a6a11b36888a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-canvas-28.0.0-alpha1.aar/007969d98e8743e07535a6a11b36888a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-cardview-28.0.0-alpha1.aar/72fa8b6fb4ec27feda46110db25c914c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-cardview-28.0.0-alpha1.aar/72fa8b6fb4ec27feda46110db25c914c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-28.0.0-alpha1.aar/697cd24f94a76e2ed920583360b035a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-circularreveal-28.0.0-alpha1.aar/697cd24f94a76e2ed920583360b035a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-drawable-28.0.0-alpha1.aar/8246d09170cf5611ff7e70c679644ec7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-drawable-28.0.0-alpha1.aar/8246d09170cf5611ff7e70c679644ec7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/3dd83c7395824a052d986074911df9b2/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/3dd83c7395824a052d986074911df9b2/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/422880ed40e5f5e67b49f5870248f7fc/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/422880ed40e5f5e67b49f5870248f7fc/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/07316301bde08b3d2deee5bd04030701/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/07316301bde08b3d2deee5bd04030701/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/8d4dc6ad80b84aadaae09362bc8786bd/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/8d4dc6ad80b84aadaae09362bc8786bd/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/5f0c1f050cb997fe03cfca2c6470cb5d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/5f0c1f050cb997fe03cfca2c6470cb5d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha1.aar/5cb988e4c85f9defc3a2433b45f083fb/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha1.aar/5cb988e4c85f9defc3a2433b45f083fb/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-color:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-color-28.0.0-alpha1.aar/557126354cac6d12d59375660909a6bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-color:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-color-28.0.0-alpha1.aar/557126354cac6d12d59375660909a6bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-math:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-math-28.0.0-alpha1.aar/2a2af7c641920f5918dbf74c8e9b1d29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-math:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-math-28.0.0-alpha1.aar/2a2af7c641920f5918dbf74c8e9b1d29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-snackbar-28.0.0-alpha1.aar/c17544e5b1f9ab13ffb43857c73d23ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] /home/uca/.gradle/caches/transforms-1/files-1.1/design-snackbar-28.0.0-alpha1.aar/c17544e5b1f9ab13ffb43857c73d23ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/uca/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9f996c8e300410650ea46839d76ad01c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/uca/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9f996c8e300410650ea46839d76ad01c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/uca/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7bc910d1498cbd1622d0db8700aa60e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/uca/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7bc910d1498cbd1622d0db8700aa60e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/uca/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b5d844d1fa5d0e9c1b98a6b31bf4dd1f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/uca/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b5d844d1fa5d0e9c1b98a6b31bf4dd1f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/uca/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2655428225800b67a7ab5d7779131700/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/uca/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2655428225800b67a7ab5d7779131700/AndroidManifest.xml:20:5-44
+INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+		INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+		ADDED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
+		INJECTED from /home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/src/main/AndroidManifest.xml
