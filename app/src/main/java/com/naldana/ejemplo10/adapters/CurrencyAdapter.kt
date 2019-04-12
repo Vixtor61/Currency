@@ -1,26 +1,35 @@
 package com.naldana.ejemplo10.adapters
 
 import android.support.v7.widget.RecyclerView
+import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.naldana.ejemplo10.R
+import com.naldana.ejemplo10.pojos.Currency
+import kotlinx.android.synthetic.main.currency_list.view.*
 
-class CurrencyAdapter : RecyclerView.Adapter<CurrencyAdapter.ViewHolder>() {
+class CurrencyAdapter(val items: List<Currency>, val clickListener: (Currency) -> Unit) : RecyclerView.Adapter<CurrencyAdapter.ViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        val view = LayoutInflater.from(parent.context).inflate(R.layout.currency_list, parent, false)
+        return ViewHolder(view)
     }
 
     override fun getItemCount(): Int {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        return items.size
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        return holder.bind(items[position],clickListener)
+
     }
 
-    class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView), View.OnClickListener{
+    class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView){
 
-        override fun onClick(v: View?) {
-            TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        fun bind(item: Currency, clickListener: (Currency) -> Unit) = with(itemView) {
+            tv_currency_name.text = item.name
+            tv_currency_country.text = item.country
+
+            this.setOnClickListener { clickListener(item) }
         }
 
     }

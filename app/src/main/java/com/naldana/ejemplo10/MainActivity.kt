@@ -1,24 +1,36 @@
 package com.naldana.ejemplo10
 
+import android.content.Intent
+import android.os.AsyncTask
 import android.os.Bundle
 import android.support.design.widget.Snackbar
 import android.support.design.widget.NavigationView
 import android.support.v4.view.GravityCompat
 import android.support.v7.app.ActionBarDrawerToggle
 import android.support.v7.app.AppCompatActivity
+import android.support.v7.widget.LinearLayoutManager
+import android.support.v7.widget.RecyclerView
+import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
+import com.naldana.ejemplo10.adapters.CurrencyAdapter
+import com.naldana.ejemplo10.pojos.Currency
+import com.naldana.ejemplo10.utils.NetworkUtils
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.app_bar_main.*
 import kotlinx.android.synthetic.main.content_main.*
+import org.json.JSONObject
+import java.io.IOException
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
-
+    private lateinit var viewAdapter: CurrencyAdapter
+    private lateinit var viewManager: RecyclerView.LayoutManager
     var twoPane =  false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
         // TODO (9) Se asigna a la actividad la barra personalizada
         setSupportActionBar(toolbar)
 
@@ -45,6 +57,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
 
         // TODO(13) Se sincroniza el estado del menu con el LISTENER
+
         toggle.syncState()
 
         // TODO (14) Se configura el listener del menu que aparece en la barra lateral
@@ -61,6 +74,10 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
          * TODO (Instrucciones)Luego de leer todos los comentarios añada la implementación de RecyclerViewAdapter
          * Y la obtencion de datos para el API de Monedas
          */
+
+        for (i in 1..7) {
+            FetchPokemonTask().execute(Integer.toString(i).trim { it <= ' ' })
+        }
     }
 
 
@@ -122,4 +139,62 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         drawer_layout.closeDrawer(GravityCompat.START)
         return true
     }
+
+    fun initRecycler(currency: MutableList<Currency>){
+        viewManager = LinearLayoutManager(this)
+        viewAdapter = CurrencyAdapter(currency, {pokemonItem: Currency -> pokemonItemClicked(pokemonItem)})
+
+        recyclerview.apply {
+            setHasFixedSize(false)
+            layoutManager = viewManager
+            adapter = viewAdapter
+        }
+    }
+
+    private fun pokemonItemClicked(item: Currency){
+       // startActivity(Intent(this, ::class.java).putExtra("CLAVIER", item.url))
+    }
+
+    private inner class FetchPokemonTask : AsyncTask<String, Void, String>() {
+
+        override fun doInBackground(vararg query: String): String {
+            Log.i("CURRENCYFAIL", "HERE")
+
+            if (query.isNullOrEmpty()) return ""
+
+            val ID = query[0]
+            val pokeAPI = NetworkUtils().buildUrl("id",ID)
+            Log.i("HTTPRES", pokeAPI.toString())
+            try {
+                Log.i("RESULTADO",NetworkUtils().getResponseFromHttpUrl(pokeAPI))
+            }catch (e: IOException){
+                Log.i("RYZEN", e.printStackTrace().toString())
+                e.printStackTrace()
+                ""
+            }
+           //
+
+             return try {
+
+                NetworkUtils().getResponseFromHttpUrl(pokeAPI)
+            } catch (e: IOException) {
+                e.printStackTrace()
+                ""
+            }
+
+        }
+
+        override fun onPostExecute(pokemonInfo: String) {
+            val pokemon = MutableList(20) { i ->
+                    Currency(i.toString(),       "name "+ i,
+                        "country "+ i,i.toString(),       "name "+ i,
+                        "country "+ i,i.toString(),       "name "+ i,
+                        "country "+ i )
+                }
+            Log.i("CURRENCYFAIL", "HERE")
+
+            initRecycler(pokemon)
+        }
+    }
+
 }

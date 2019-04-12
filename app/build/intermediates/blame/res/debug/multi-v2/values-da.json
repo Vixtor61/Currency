@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/uca/AndroidStudioProjects/AndroidCourse/Ejemplo10/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
+            "outputFile": "/home/victot/AndroidStudioProjects/Currency/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
             "map": [
                 {
-                    "source": "/home/uca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/2e362472fda0399fda73185aef281ad7/res/values-da/values-da.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,307,419,502,602,715,792,869,948,1057,1165,1261,1375,1477,1578,1731,1828",
-                        "endColumns": "102,98,111,82,99,112,76,76,78,108,107,95,113,101,100,152,96,78",
-                        "endOffsets": "203,302,414,497,597,710,787,864,943,1052,1160,1256,1370,1472,1573,1726,1823,1902"
-                    }
-                },
-                {
-                    "source": "/home/uca/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/d18df62da4cf3fad9daf568ff3ccc113/res/values-da/values-da.xml",
+                    "source": "/home/victot/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a0505cfa4a0726f68cdb1f68cfff4a28/res/values-da/values-da.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1907",
                         "endColumns": "100",
                         "endOffsets": "2003"
+                    }
+                },
+                {
+                    "source": "/home/victot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/a85f2a2b429c7f0f555fefab7e9f62a8/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,307,419,502,602,715,792,869,948,1057,1165,1261,1375,1477,1578,1731,1828",
+                        "endColumns": "102,98,111,82,99,112,76,76,78,108,107,95,113,101,100,152,96,78",
+                        "endOffsets": "203,302,414,497,597,710,787,864,943,1052,1160,1256,1370,1472,1573,1726,1823,1902"
                     }
                 }
             ]
